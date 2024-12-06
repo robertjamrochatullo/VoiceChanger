@@ -1,7 +1,5 @@
 @font-face {
-  font-display: swap;
-  font-style: normal;
-  src: url('fonts/MuseoModerno-Regular.ttf') format('truetype');
+  src: url('MuseoModerno-Regular.ttf') format('truetype');
   font-family: "MuseoModerno"; 
   font-weight: 400;
 }
