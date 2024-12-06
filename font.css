@@ -5,9 +5,9 @@
   font-family: "MuseoModerno"; 
   font-weight: 400;
 }
-body {
+h1 {
     font-family: 'MuseoModerno', sans-serif; /* Apply MuseoModerno font */
 }
-h1 {
+h2 {
     font-family: 'MuseoModerno', sans-serif; /* Apply MuseoModerno to headings */
 }
