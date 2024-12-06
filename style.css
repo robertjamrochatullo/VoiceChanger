@@ -42,11 +42,13 @@ h2, em {
 }
 
 #rnbo-parameter-sliders {
-    display: inline-block;
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
 }
 
 #rnbo-parameter-sliders > div {
-    display: inline-block;
+    display: flex;
 }
 
 #rnbo-parameter-sliders > div > input:first-of-type {
