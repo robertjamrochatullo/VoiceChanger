@@ -109,7 +109,7 @@ async function setup() {
     device.node.connect(outputNode);
 
     // (Optional) Extract the name and rnbo version of the patcher from the description
-    document.getElementById("patcher-title").innerText = "VOICE TRANSFORMATION";
+    //document.getElementById("patcher-title").innerText = "VOICE TRANSFORMATION";
 
     // (Optional) Automatically create sliders for the device parameters
     makeButtons(device);
