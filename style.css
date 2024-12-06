@@ -11,6 +11,7 @@ html, body {
     padding: 0;
     /*background-color: var(--black_900); /* Updated background color */
    /* color: var(--white_a700); /* Text color for better contrast */
+    height: 100%
 }
 #rnbo-root {
     height: 100vh;
@@ -38,6 +39,11 @@ h2, em {
     margin: auto;
     text-align: center;
     max-width: 100%;
+}
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 #rnbo-clickable-keyboard {
