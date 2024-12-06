@@ -46,7 +46,7 @@ h2, em {
 }
 
 #rnbo-parameter-sliders > div {
-    display: flex;
+    display: inline-block;
 }
 
 #rnbo-parameter-sliders > div > input:first-of-type {
