@@ -15,22 +15,26 @@ html, body {
 #rnbo-root {
     height: 100vh;
     width: 100vw;
+    margin: auto;
+    text-align: center;
+    max-width: 100%; 
+    box-sizing: border-box;
 }
 #background {
     width: 100%;
     height: 100%;
-    background: linear-gradient(180deg, #070e1b, #298125bf); /* Apply gradient */
+    background: linear-gradient(180deg, #070e1b, #298125bf); 
     position: absolute;
     z-index: -1;
 }
 h1, em {
     width: 100%;
-    color: var(--white_a700); /* Consistent text color */
+    color: var(--white_a700); 
 }
 
 h2, em {
     width: 100%;
-    color: var(--white_a700); /* Consistent text color */
+    color: var(--white_a700); 
 }
 
 #rnbo-root {
