@@ -34,6 +34,10 @@ h2, em {
     width: 100%;
     color: var(--white_a700); 
 }
+h3, em {
+    width: 100%;
+    color: var(--white_a700); 
+}
 
 #rnbo-root {
     margin: auto;
