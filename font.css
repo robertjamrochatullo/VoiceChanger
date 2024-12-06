@@ -1,7 +1,13 @@
-body {
-  font-dsiplay: swap;
+@font-face {
+  font-display: swap;
   font-style: normal;
-  src: url("../public/fonts/MuseoModernoRegular.ttf");
+  src: url('fonts/MuseoModerno-Regular.ttf') format('truetype');
   font-family: "MuseoModerno"; 
   font-weight: 400;
+}
+body {
+    font-family: 'MuseoModerno', sans-serif; /* Apply MuseoModerno font */
+}
+h1 {
+    font-family: 'MuseoModerno', sans-serif; /* Apply MuseoModerno to headings */
 }
