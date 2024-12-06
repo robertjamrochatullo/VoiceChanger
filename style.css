@@ -47,8 +47,6 @@ h2, em {
 }
 
 #rnbo-parameter-sliders > div {
-    margin-left: auto;
-    margin-right: auto;
     display: flex;
 }
 
