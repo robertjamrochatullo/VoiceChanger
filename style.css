@@ -53,7 +53,7 @@ h2, em {
 }
 
 #rnbo-parameter-sliders {
-    width: 100vw;
+    margin: 0px;
     justify-content: center;
     align-items: center;
     display: flex;
