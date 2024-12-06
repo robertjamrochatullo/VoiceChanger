@@ -1,6 +1,16 @@
+:root {
+    /* ------Color variables------ */
+    --black_900: #070e1b;
+    --black_900_01: #000000;
+    --black_900_7f: #070e1b7f;
+    --green_800_bf: #298125bf;
+    --white_a700: #ffffff;
+}
 html, body {
     margin: 0;
     padding: 0;
+    background-color: var(--black_900); /* Updated background color */
+    color: var(--white_a700); /* Text color for better contrast */
 }
 #rnbo-root {
     height: 100vh;
@@ -13,6 +23,7 @@ html, body {
 
 h2, em {
     width: 100%;
+    color: var(--white_a700); /* Consistent text color */
 }
 
 #rnbo-root {
