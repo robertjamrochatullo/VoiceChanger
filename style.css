@@ -61,11 +61,7 @@ h2, em {
 }
 
 #rnbo-parameter-sliders > div {
-    width: 100vw;
-    justify-content: center;
-    align-items: center;
     display: flex;
-    flex-direction: row;
 }
 
 #rnbo-parameter-sliders > div > input:first-of-type {
