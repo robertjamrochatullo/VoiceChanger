@@ -27,15 +27,18 @@ html, body {
 }
 h1, em {
     width: 100%;
+    padding: 10px;
     color: var(--white_a700); 
 }
 
 h2, em {
     width: 100%;
+    padding: 10px;
     color: var(--white_a700); 
 }
 h3, em {
     width: 100%;
+    padding: 10px;
     color: var(--white_a700); 
 }
 
